@@ -1,7 +1,7 @@
 #include <iostream>
-
+//Profit Margin Calculator
 using namespace std;
-// Inventory Program
+
 
 int main(){
 // Declaration
