@@ -1,0 +1,1 @@
+This program calculates the inventory value and the profit margin
