@@ -1,5 +1,6 @@
-#include <iostream>
 // Profit Margin Calculator
+#include <iostream>
+
 using namespace std;
 
 
