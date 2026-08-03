@@ -5,6 +5,7 @@ using namespace std;
 
 
 int main(){
+    
 // Declaration
 float wholesale_cost, inventory_value;
 float retail_value, retail_price, profit;
